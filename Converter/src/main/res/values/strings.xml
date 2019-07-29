@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Money Converter</string>
+    <string name="type">Money Type</string>
+    <string name="bnConverter">Convert</string>
+    <string name="pesos">Pesos</string>
+    <string name="converter">Converter</string>
+    <string name="dollars">Dollars</string>
+    <string name="euros">Euros</string>
+    <string name="libras">Libras</string>
+    <string name="example">ej: 100</string>
+
+    <string-array name="moneyOptions">
+        <item>---</item>
+        <item>Pesos</item>
+        <item>Dollars</item>
+        <item>Euros</item>
+        <item>Libras</item>
+    </string-array>
+
+</resources>
